@@ -2,7 +2,7 @@ export let projects = [
   {
     id: 1,
     type: 'paper',
-    title: "KSA Sepsis associated AKI 예측",
+    title: "Blank",
     summary: "KSA 레지스트리 데이터를 활용한 Sepsis-associated AKI 연구",
     description: ["ICU에 입원한 패혈증 환자들의 급성신장애(Acute kidney disease, AKI) 에 영향을 미치는 요인 파악" ,
                   "AKI stage에 따른 병원 내 사망 (in-hospital mortality) 영향 요인 예측",

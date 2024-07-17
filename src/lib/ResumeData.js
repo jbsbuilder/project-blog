@@ -1,10 +1,10 @@
 import { TicketOutline } from "flowbite-svelte-icons"
 
 const skills = [
-  {title:"R", description: "데이터 핸들링, 데이터 전처리, 데이터 시각화, 통계분석, 머신 러닝, 대시보드 제작(Shiny) 가능"},
+  {title:"Golang", description: "데이터 핸들링, 데이터 전처리, 데이터 시각화, 통계분석, 머신 러닝, 대시보드 제작(Shiny) 가능"},
   {title:"Python", description: "데이터 핸들링, 데이터 전처리, 데이터 시각화, 머신 러닝, FastAPI"},
   {title:"SQL, PostgreSQL", description: "중첩 서브쿼리 등을 활용해 데이터 분석에 필요한 데이터 추출 가능"},
-  {title:"Selenium", description: "셀레니움과 BeautifulSoup 패키지를 활용해 웹 크롤러 제작 가능"},
+  {title:"Terraform", description: "셀레니움과 BeautifulSoup 패키지를 활용해 웹 크롤러 제작 가능"},
   {title:"Git", description: "협업을 위한 브랜치, 머지, 롤백 후 머지 등 가능"},
 ]
 
