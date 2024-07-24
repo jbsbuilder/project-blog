@@ -9,14 +9,17 @@ const skills = [
 ]
 
 const educations = [
-  {title: '서울대학교 보건대학원', period: '2019.03-2021.02'},
-  {title: '건국대학교 중어중문학과', period: '2013.03-2019.02'},
+  {title: 'Associates of General Studies', period: '2017.05'},
+  {title: 'Bacholors of Criminology', period: '2019.05'},
 ]
 
 const certificates = [
-  {title: '빅데이터분석기사', date:'2021.07'},
-  {title: 'SQLD', date:'2021.06'},
-  {title: 'ADsP', date: '2021.06'}
+  {title: 'CompTIA A+', date:'2023.03'},
+  {title: 'CompTIA Network+', date:'2023.08'},
+  {title: 'CompTIA Security+', date: '2023.09'},
+  {title: 'AWS Cloud Pracitioner', date: '2023.11'},
+  {title: 'AWS Solutions Architect - Associate', date: '2024.02'}
+
 ]
 const careers = [
   {title: '분당서울대학교병원 디지털헬스케어연구사업부',
