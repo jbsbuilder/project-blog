@@ -18,18 +18,18 @@
   <section class="container mx-auto flex flex-col justify-center md:flex-row items-center gap-4" >
     <!-- left -->
     <div class="my-auto flex flex-col gap-5 text-center md:w-2/5 md:text-left">
-      <h1 class="text-5xl font-bold after:content-['👋🏻'] after:-skew-y-3 dark:text-white md:text-left ">헬스케어<br>데이터분석가</h1>
+      <h1 class="text-5xl font-bold after:content-['👋🏻'] after:-skew-y-3 dark:text-white md:text-left ">Operations Manager<br></h1>
       <p class="text-gray-400">
-        안녕하세요! 데이터를 다루고, 분석하고, 시각화하는 것을 좋아합니다. 개발은 취미입니다 🤣
+        not sure what to put here 🤣
       </p>
       <div class="flex mt-4 space-x-6 justify-center md:justify-start md:mt-0">
-        <FooterIcon href="https://github.com/rchemist0123" target="_blank">
+        <FooterIcon href="https://github.com/jbsbuilder" target="_blank">
           <GithubSolid class="w-4 h-4 text-black dark:text-white hover:text-primary-600" />
         </FooterIcon>
-        <FooterIcon href="https://www.linkedin.com/in/danjang0123/" target="_blank">
+        <FooterIcon href="www.linkedin.com/in/jake-smith-122266165/" target="_blank">
           <LinkedinSolid class="w-4 h-4 text-black dark:text-white hover:text-primary-600" />
         </FooterIcon>    
-        <FooterIcon href="https://rchemistblog.com/" target="_blank">
+        <FooterIcon href="https://cloudsmithlabs.com/" target="_blank">
           <BookSolid class="w-4 h-4 text-black dark:text-white hover:text-primary-600" />
         </FooterIcon>    
       </div>

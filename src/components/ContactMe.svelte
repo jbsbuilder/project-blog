@@ -1,7 +1,7 @@
 <section class="pt-40 p-10 md:p-20 dark:bg-slate-800" id="section-4"> 
   <div class="mx-auto flex flex-col items-center">
     <p class="font-extrabold md:text-left text-lg text-primary-600">CONTACT</p>
-    <p class="font-bold md:text-left text-md text-black my-3 dark:text-white">연락은 언제든 환영입니다!👇🏻</p>
+    <p class="font-bold md:text-left text-md text-black my-3 dark:text-white">I am excited to hear from you!👇🏻</p>
   </div>
   <div class="flex flex-col gap-y-3 md:flex-row md:space-x-3 justify-center">
     <div class="p-6 bg-white rounded-xl flex items-center space-x-5 dark:bg-slate-600">
@@ -11,8 +11,8 @@
         </svg>
       </div>
       <div class="text-left space-y-1">
-        <p class="text-sm font-bold text-black dark:text-white">위치</p>
-        <p class="text-xs text-slate-500">대한민국 경기도 성남</p>
+        <p class="text-sm font-bold text-black dark:text-white"></p>
+        <p class="text-xs text-slate-500">Ogden, Utah</p>
       </div>
     </div>
     <div class="p-6 bg-white rounded-xl flex items-center space-x-5 dark:bg-slate-600">
@@ -23,8 +23,8 @@
         </svg>
       </div> 
       <div class="text-left space-y-1">
-        <p class="text-sm font-bold text-black dark:text-white">메일</p>
-        <p class="text-xs text-slate-500">danjang0123@gmail.com</p>
+        <p class="text-sm font-bold text-black dark:text-white"></p>
+        <p class="text-xs text-slate-500">work.jacobsmith@gmail.com</p>
       </div>
     </div>
   </div>
