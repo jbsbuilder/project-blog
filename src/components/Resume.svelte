@@ -29,7 +29,7 @@
     <Heading tag="h1">🧑🏻‍💻 Education</Heading>
     <hr class="mt-2 mb-5"/>
     <div>
-      <Heading tag="h5">경력</Heading>
+      <Heading tag="h5">Fill in</Heading>
       <ul>
         {#each resume.careers as career}
           <li>
@@ -42,7 +42,7 @@
       </ul>
     </div>
     <div class='mt-5'>
-      <Heading tag="h5">학력</Heading>
+      <Heading tag="h5">Degrees</Heading>
       <List tag="ul" class="space-y-0.5 dark:text-gray-4 00">
         {#each resume.educations as edu}
           <Li>{edu.title} | {edu.period}</Li>
@@ -62,7 +62,7 @@
     </List>
   </div>
   <div class="text-left my-20">
-    <Heading tag="h1" class="bottom-line">🖥️ 자격증</Heading>
+    <Heading tag="h1" class="bottom-line">🖥️ Certifications </Heading>
     <hr class="mt-2 mb-5"/>
     <List tag="ul" class="space-y-0.5 text-gray-500 dark:text-gray-400">
       {#each resume.certificates as certificate}
@@ -73,7 +73,7 @@
     </List>
   </div>
   <div class="text-left my-20">
-    <Heading tag="h1" class="bottom-line">📑 논문</Heading>
+    <Heading tag="h1" class="bottom-line">📑 Needs to be filled in</Heading>
     <hr class="mt-2 mb-5"/>
     <ul class="space-y-0.5 text-gray-500">
       {#each resume.papers as paper}
@@ -84,7 +84,7 @@
     </ul>
   </div>
   <div class="text-left my-20">
-    <Heading tag="h1" class="bottom-line">💼 업무 방식</Heading>
+    <Heading tag="h1" class="bottom-line">💼 What can I do for you</Heading>
     <hr class="mt-2 mb-5"/>
     <List tag="ul" class="space-y-0.5 text-gray-500 dark:text-gray-400">
       {#each resume.howIWork as work}
@@ -98,7 +98,7 @@
       focus:outline-none focus:border-primary-500 
       active:ring-2 active:ring-primary-700 active:scale-95"
       on:click={backToPortfolio}>
-      돌아가기
+      Back to Portfolio
     </button>
   </div>
 </section>

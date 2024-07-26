@@ -26,7 +26,7 @@
         <FooterIcon href="https://github.com/jbsbuilder" target="_blank">
           <GithubSolid class="w-4 h-4 text-black dark:text-white hover:text-primary-600" />
         </FooterIcon>
-        <FooterIcon href="www.linkedin.com/in/jake-smith-122266165/" target="_blank">
+        <FooterIcon href="https://linkedin.com/in/jake-smith-122266165/" target="_blank">
           <LinkedinSolid class="w-4 h-4 text-black dark:text-white hover:text-primary-600" />
         </FooterIcon>    
         <FooterIcon href="https://cloudsmithlabs.com/" target="_blank">
