@@ -31,7 +31,7 @@
 <section class="px-5 md:px-20 md:pb-20 dark:bg-slate-800" id="section-3">
   <div class="py-5 md:py-20 flex flex-col items-center">
     <p class="font-extrabold text-lg text-primary-600">PORTFOLIO</p>
-    <p class="font-bold text-md text-black my-3 dark:text-white">담당했던 논문과 프로젝트 목록입니다 🧩</p>
+    <p class="font-bold text-md text-black my-3 dark:text-white">This is a list of recent projects I have completed 🧩</p>
   </div>
   <div class="flex flex-col justify-center gap-32">
     {#each info as i}
