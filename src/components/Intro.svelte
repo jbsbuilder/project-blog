@@ -3,7 +3,11 @@
   import { Heading, P, FooterIcon, Tooltip} from 'flowbite-svelte'
   import { GithubSolid, LinkedinSolid, BookSolid } from 'flowbite-svelte-icons'
   let sources = [
+<<<<<<< HEAD
     {dir: "images/Go.svg", alt: "R"},
+=======
+    {dir: "images/Go.svg", alt: "Go"},
+>>>>>>> 9a61b18 (reupdated photo)
     {dir: "images/python.svg", alt: "Python"},
     {dir: "images/postgresql.svg", alt: "PostgreSQL"},
     {dir: "images/html5.svg", alt: "HTML5"},
